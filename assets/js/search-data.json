@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "I work in the the Applied Artifical Intelligence Group at C-DAC as an R&amp;D Engineer in Natural Language Processing. I have worked on: . Coreference Resolution | Domain identification through zero-shot learning | Relation Extraction from unstructured text | Named Entity Recognition | Perspective based sentiment-analysis | My aim this year is to be a tools/langugage independent software engineer. I am currently learning React and Rust. .",
+          "content": "I work in the the Applied Artifical Intelligence Group at C-DAC as an R&amp;D Engineer in Natural Language Processing. I have worked on: . Coreference Resolution | Domain identification through zero-shot learning | Relation Extraction from unstructured text | Named Entity Recognition | Perspective based sentiment-analysis | My aim this year is to be a tools/langugage agnostic software engineer. I am currently learning React and Rust. .",
           "url": "https://aakashb95.github.io/home/about/",
           "relUrl": "/about/",
           "date": ""
