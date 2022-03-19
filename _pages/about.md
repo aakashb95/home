@@ -11,5 +11,5 @@ I have worked on:
 4. Named Entity Recognition
 5. Perspective based sentiment-analysis
    
-My aim this year is to be a tools/langugage independent software engineer. 
+My aim this year is to be a tools/langugage agnostic software engineer. 
 I am currently learning React and Rust.
